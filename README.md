@@ -30,13 +30,24 @@
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-I am a Full Stack Developer with 5 years of experience specializing in the MERN stack. My expertise lies in architecting scalable, high-performance web applications, with a focus on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
+I am a Full Stack Developer with 5 years of experience specializing in the MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
 
 💼 Currently, I’m a Senior Software Engineer at Devsinc, where I lead and mentor teams, optimize system architecture, and convert monolithic applications into microservices for enhanced efficiency.
 
-🚀 My skills include React.js, Node.js, TypeScript, MongoDB, and AWS, among others. I have a strong command of modern development tools and practices, including Docker, Jest, and CI/CD pipelines.
+🚀 My skills include React.js, Node.js, TypeScript, MongoDB, and AWS. I have a strong command of modern development tools and practices, including Docker, Jest, and CI/CD pipelines.
 
-🌟 Some of my notable projects include a React.js form builder library used by 120k+ users and saving approx $5000/month infra cost by optimizing the existing cloud infrastructure.
+🌟 Some of my notable projects include a React.js form builder library used by 120k+ users and saved approx $5000/month infra cost by optimizing the existing cloud infrastructure.
 
 🎯 I'm always open to new challenges and opportunities in web development and software engineering.
+
+## Personal Project
+Chrome Extension Youtube Timestamp Saver currently has [![Chrome Web Store Downloads](https://img.shields.io/chrome-web-store/users/jgpohngnpocbajdlifenebpifdhbkloj)](https://chrome.google.com/webstore/detail/jgpohngnpocbajdlifenebpifdhbkloj) You can download the extension by clicking the chrome store icon.
+[![Youtube Timestamp Saver](https://img.shields.io/badge/Chrome_Web_Store-Download-blue?logo=google-chrome&style=flat-square)](https://chrome.google.com/webstore/detail/jgpohngnpocbajdlifenebpifdhbkloj)
+
